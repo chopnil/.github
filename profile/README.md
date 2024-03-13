@@ -35,11 +35,7 @@ Except where otherwise noted, this notice applies to all contents of this profil
 
 > Copyright &copy; Children's Hospital of Philadelphia. All Rights Reserved.
 
-<br />
-
 ----
-
-<br />
 
 <div align="center">
     <img src="/profile/assets/chop-research-logo-gray.svg" height="48pt" />
