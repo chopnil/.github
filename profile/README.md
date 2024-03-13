@@ -42,5 +42,5 @@ Except where otherwise noted, this notice applies to all contents of this profil
 <br />
 
 <div align="center">
-    <img src="assets/chop-research-logo-gray.svg" height="48pt" />
+    <img src="/profile/assets/chop-research-logo-gray.svg" height="48pt" />
 </div>
