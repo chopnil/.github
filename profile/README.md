@@ -26,7 +26,7 @@ The Optical Neuroimaging Lab's current research efforts include:
 
 ### Principal Investigator
 
-**Brian R. White, MD, PhD**  
+**[Brian R. White, MD, PhD](https://www.research.chop.edu/people/brian-r-white)**  
 Dr. White develops novel optical functional neuroimaging systems and algorithms to better understand pediatric neuronal injury. His research includes optical intrinsic signal imaging, diffuse optical tomography, and resting-state functional connectivity.
 
 ## Copyright Notice
