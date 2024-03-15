@@ -31,12 +31,10 @@ Dr. White develops novel optical functional neuroimaging systems and algorithms 
 
 ## Copyright Notice
 
-Except where otherwise noted, this notice applies to all contents of this profile.
-
-> Copyright &copy; Children's Hospital of Philadelphia. All Rights Reserved.
+The contents of this profile are copyright &copy; 2024 Children's Hospital of Philadelphia. Except where otherwise noted, all rights are reserved.
 
 ----
 
 <div align="center">
-    <img src="/profile/assets/chop-research-logo-gray.svg" height="48pt" />
+    <a href="https://www.research.chop.edu/"><img src="/profile/assets/chop-research-logo-gray.svg" height="48pt" /></a>
 </div>
